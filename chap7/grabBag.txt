@@ -1,0 +1,8 @@
+Exercises - Grab Bag:
+
+1) ? (All?)
+2) D
+3) addOne = (\x -> x+1) :: Integer -> Integer
+    a) where f = \n -> n+1
+    b) addFive = \x -> \y -> (if x > y then y else x) + 5
+    c) mflip f x y = f y x
